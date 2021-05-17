@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\WonderfulWorld.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D0FB06E5-6BBF-4205-B1DC-351B53FE3C56}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\WonderfulWorld.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WonderfulWorldEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1E2BBF62-A7C7-4167-979E-FEA9C36FF3C3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\WonderfulWorld">
+      <UniqueIdentifier>{121A7E27-8383-4111-B00D-6506F1C2662F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\WonderfulWorld\MyActor.cpp">
+      <Filter>Source\WonderfulWorld</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WonderfulWorld\MyActor.h">
+      <Filter>Source\WonderfulWorld</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\WonderfulWorld\WonderfulWorld.Build.cs">
+      <Filter>Source\WonderfulWorld</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\WonderfulWorld\WonderfulWorld.cpp">
+      <Filter>Source\WonderfulWorld</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WonderfulWorld\WonderfulWorld.h">
+      <Filter>Source\WonderfulWorld</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

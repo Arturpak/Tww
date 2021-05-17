@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programm\\UE4\\WonderfulWorld\\Source\\WonderfulWorld\\WonderfulWorld.Build.cs",
+		"D:\\Programm\\UE4\\WonderfulWorld\\Source\\WonderfulWorld.Target.cs",
+		"D:\\Programm\\UE4\\WonderfulWorld\\Source\\WonderfulWorldEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.1"
+}
