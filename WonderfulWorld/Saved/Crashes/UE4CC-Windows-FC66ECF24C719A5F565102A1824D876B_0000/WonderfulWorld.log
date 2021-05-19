@@ -1,0 +1,1327 @@
+﻿Log file open, 05/18/21 10:32:58
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: WonderfulWorld
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.907703
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorPalette
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ColorCorrectRegions
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaFrameworkUtilities
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Text3D
+LogPluginManager: Mounting plugin VirtualCamera
+LogPluginManager: Mounting plugin VirtualProductionUtilities
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OSC
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin SunPosition
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin OpenCVLensDistortion
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 760
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Programm/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Engine.ini]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[r.SSGI.Enable:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Engine.ini]
+[2021.05.18-07.33.10:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Engine.ini]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Engine.ini]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.18-07.33.10:748][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.18-07.33.10:749][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Engine.ini]
+[2021.05.18-07.33.10:749][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Engine.ini]
+[2021.05.18-07.33.10:774][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:774][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.18-07.33.10:774][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.18-07.33.10:774][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:774][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.18-07.33.10:774][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.18-07.33.10:775][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.18-07.33.10:776][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.18-07.33.10:776][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.18-07.33.10:776][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.18-07.33.10:777][  0]LogHAL: Display: Platform has ~ 8 GB [8534605824 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.18-07.33.10:777][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.18-07.33.10:777][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.18-07.33.10:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.18-07.33.10:778][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:2]]
+[2021.05.18-07.33.10:779][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:779][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2021.05.18-07.33.10:779][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2021.05.18-07.33.10:779][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.33.10:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.18-07.33.10:779][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.18-07.33.10:779][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.18-07.33.10:779][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.18-07.33.10:851][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.18-07.33.10:851][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.18-07.33.10:851][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.18-07.33.10:851][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Engine.ini]
+[2021.05.18-07.33.10:851][  0]LogInit: Computer: DESKTOP-CT46P0U
+[2021.05.18-07.33.10:851][  0]LogInit: User: Artur
+[2021.05.18-07.33.10:851][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.05.18-07.33.10:851][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.18-07.33.10:851][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.05.18-07.33.10:851][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.18-07.33.10:851][  0]LogMemory: Process Physical Memory: 142.51 MB used, 142.52 MB peak
+[2021.05.18-07.33.10:851][  0]LogMemory: Process Virtual Memory: 121.04 MB used, 121.04 MB peak
+[2021.05.18-07.33.10:851][  0]LogMemory: Physical Memory: 5901.09 MB used,  2238.14 MB free, 8139.23 MB total
+[2021.05.18-07.33.10:851][  0]LogMemory: Virtual Memory: 134178472.00 MB used,  39257.58 MB free, 134217728.00 MB total
+[2021.05.18-07.33.10:952][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.18-07.33.12:371][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.18-07.33.12:372][  0]LogInit: Using OS detected language (ru-RU).
+[2021.05.18-07.33.12:372][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.05.18-07.33.12:795][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.05.18-07.33.12:796][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.05.18-07.33.12:796][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.05.18-07.33.12:796][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.05.18-07.33.12:796][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.05.18-07.33.12:796][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.05.18-07.33.12:796][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.05.18-07.33.12:796][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.05.18-07.33.12:918][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.18-07.33.13:042][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-07.33.14:092][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.18-07.33.14:092][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.18-07.33.25:606][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.18-07.33.25:607][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.18-07.33.25:607][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.18-07.33.25:607][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.18-07.33.26:265][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760' (Feature Level 11_0)
+[2021.05.18-07.33.26:265][  0]LogD3D11RHI:       2007/0/4069 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.05.18-07.33.26:268][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.18-07.33.26:269][  0]LogD3D11RHI:       0/0/4069 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.18-07.33.26:269][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.18-07.33.26:276][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.18-07.33.26:276][  0]LogD3D11RHI:     GPU DeviceId: 0x1187 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.18-07.33.26:276][  0]LogWindows: EnumDisplayDevices:
+[2021.05.18-07.33.26:276][  0]LogWindows:    0. 'NVIDIA GeForce GTX 760' (P:1 D:1)
+[2021.05.18-07.33.26:277][  0]LogWindows:    1. 'NVIDIA GeForce GTX 760' (P:0 D:1)
+[2021.05.18-07.33.26:277][  0]LogWindows:    2. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.05.18-07.33.26:277][  0]LogWindows:    3. 'NVIDIA GeForce GTX 760' (P:0 D:0)
+[2021.05.18-07.33.26:277][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.18-07.33.26:277][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760
+[2021.05.18-07.33.26:277][  0]LogD3D11RHI:   Driver Version: 457.09 (internal:27.21.14.5709, unified:457.09)
+[2021.05.18-07.33.26:277][  0]LogD3D11RHI:      Driver Date: 10-22-2020
+[2021.05.18-07.33.26:277][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2021.05.18-07.33.26:342][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2021.05.18-07.33.26:342][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.18-07.33.26:429][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.18-07.33.26:432][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.18-07.33.27:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.18-07.33.27:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.18-07.33.27:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.18-07.33.27:435][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.18-07.33.27:492][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.18-07.33.27:514][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.18-07.33.27:544][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.18-07.33.27:558][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.18-07.33.27:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.18-07.33.27:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.18-07.33.27:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.18-07.33.27:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.18-07.33.27:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.18-07.33.27:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.18-07.33.27:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.18-07.33.27:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.18-07.33.27:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.18-07.33.27:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.18-07.33.27:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.18-07.33.28:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.18-07.33.28:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.18-07.33.28:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.18-07.33.28:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.18-07.33.28:282][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.18-07.33.28:391][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.18-07.33.29:152][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.18-07.33.29:152][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Intermediate/Shaders/WorkingDirectory/1272/).
+[2021.05.18-07.33.29:152][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Artur/AppData/Local/Temp/UnrealShaderWorkingDir/0ADAB8B04198C8A6A6E631BFBE68F641/'.
+[2021.05.18-07.33.29:152][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.18-07.33.29:152][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.18-07.33.38:575][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.18-07.33.39:436][  0]LogDerivedDataCache: Loaded boot cache 0.86s 79MB C:/Users/Artur/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.18-07.33.39:436][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Artur/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.18-07.33.39:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UE4/Git/Tww/Tww/WonderfulWorld/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.18-07.33.39:436][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.18-07.33.39:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UE4/Git/Tww/Tww/WonderfulWorld/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.18-07.33.39:436][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.18-07.33.39:491][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.18-07.33.39:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.18-07.33.39:491][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.18-07.33.39:978][  0]LogDerivedDataCache: Speed tests for C:/Users/Artur/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.49 seconds
+[2021.05.18-07.33.39:979][  0]LogDerivedDataCache: Display: Performance to C:/Users/Artur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=12.57ms. RandomReadSpeed=2.91MBs, RandomWriteSpeed=55.21MBs. Assigned SpeedClass 'Ok'
+[2021.05.18-07.33.39:984][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Artur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.18-07.33.39:984][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.18-07.33.39:984][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.18-07.33.40:047][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.18-07.33.40:170][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.18-07.33.41:535][  0]LogAssetRegistry: FAssetRegistry took 0.0039 seconds to start up
+[2021.05.18-07.33.41:844][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.18-07.33.41:844][  0]LogInit: Active device profile: [000001EDE6385B00][000001EDE54627C0 49] Windows
+[2021.05.18-07.33.41:845][  0]LogInit: Profiles: [000001EDE6385B00][000001EDE54627C0 49] Windows, [000001EDE6364D00][000001EDE546A940 49] WindowsNoEditor, [000001EDE6384C00][000001EDE546EAC0 49] WindowsServer, [000001EDE6366200][000001EDE5472C40 49] WindowsClient, [000001EDE6387700][000001EDE5476DC0 49] IOS, [000001EDE6366E00][000001EDE547AF40 49] iPadAir, [000001EDE6386E00][000001EDE547F0C0 49] iPadAir2, [000001EDE6312D00][000001EDE548D380 49] IPadPro, [000001EDE6312E00][000001EDE54833C0 49] iPadAir3, [000001EDE6385300][000001EDE5497540 49] iPadAir4, [000001EDE6312700][000001EDE549B6C0 49] iPadMini2, [000001EDE6387200][000001EDE5467800 49] iPadMini3, [000001EDE6311600][000001EDE549F940 49] iPadMini4, [000001EDE6385100][000001EDE54A3A80 49] iPadMini5, [000001EDE634A600][000001EDE54AFD40 49] iPhone6, [000001EDE634A700][000001EDE54AA0C0 49] iPodTouch6, [000001EDE6313500][000001EDE54B6380 49] iPhone7, [000001EDE6313600][000001EDE54B23C0 49] iPodTouch7, [000001EDE634BF00][000001EDE54BA540 49] iPhone5S, [000001EDE6312300][000001EDE4CB06C0 49] iPhone6Plus, [000001EDE6349400][000001EDE4CB4840 49] iPhone6S, [000001EDE6311100][000001EDE4CB89C0 49] iPhone6SPlus, [000001EDE6348300][000001EDE4CBCB40 49] iPhone7Plus, [000001EDE6310B00][000001EDE4CC0CC0 49] iPhoneSE, [000001EDE634B200][000001EDE4CC4E40 49] iPhone8, [000001EDE6311500][000001EDE4CC8FC0 49] iPhone8Plus, [000001EDE6349900][000001EDE4CCD140 49] iPhoneX, [000001EDE6312100][000001EDE4CD12C0 49] iPhoneXS, [000001EDE634A300][000001EDE4CD5440 49] iPhoneXSMax, [000001EDE6313A00][000001EDE4CD95C0 49] iPhoneXR, [000001EDE6349E00][000001EDE4CDD740 49] iPhone11, [000001EDE6310C00][000001EDE54A7880 49] iPhone11Pro, [000001EDE634B300][000001EDE4CE19C0 49] iPhone11ProMax, [000001EDE6310100][000001EDE4CE5B00 49] iPhoneSE2, [000001EDE6348500][000001EDE4CE9C40 49] iPhone12Mini, [000001EDE6311700][000001EDE4CF0100 49] iPhone12, [000001EDE634A800][000001EDE4CF4280 49] iPhone12Pro, [000001EDE6313F00][000001EDE4CF8400 49] iPhone12ProMax, [000001EDE634B000][000001EDE4CFC580 49] iPadPro105, [000001EDE6367A00][000001EDE4D00700 49] iPadPro129, [000001EDE6311F00][000001EDE4D04880 49] iPadPro97, [000001EDE6364900][000001EDE4D08A00 49] iPadPro2_129, [000001EDE6313200][000001EDE4D0CB80 49] iPad5, [000001EDE6367D00][000001EDE4D10D00 49] iPad6, [000001EDE6312200][000001EDE4D14E80 49] iPad7, [000001EDE6366C00][000001EDE4D19000 49] iPad8, [000001EDE6311200][000001EDE4D1D180 49] iPadPro11, [000001EDE6348F00][000001EDE4D21300 49] iPadPro2_11, [000001EDE6367C00][000001EDE4D25480 49] iPadPro3_129, [000001EDE634BC00][000001EDE4D29600 49] iPadPro4_129, [000001EDE6365800][000001EDE4D2D780 49] AppleTV, [000001EDE634A000][000001EDE4CED8C0 49] AppleTV4K, [000001EDE6364300][000001EDE4D31A00 49] TVOS, [000001EDE6310900][000001EDE4D35B40 49] Mac, [000001EDE6366100][000001EDE4D39C80 49] MacClient, [000001EDE6312000][000001EDE4D40140 49] MacNoEditor, [000001EDE6367B00][000001EDE4D442C0 49] MacServer, [000001EDE6313700][000001EDE4D48440 49] Linux, [000001EDE6367E00][000001EDE4D4C5C0 49] LinuxNoEditor, [000001EDE6313100][000001EDE4D50740 49] LinuxAArch64NoEditor, [000001EDE6366600][000001EDE4D548C0 49] LinuxClient, [000001EDE6310700][000001EDE4D58A40 49] LinuxAArch64Client, [000001EDE6364C00][000001EDE4D5CBC0 49] LinuxServer, [000001EDE6311C00][000001EDE4D60D40 49] LinuxAArch64Server, [000001EDE6366B00][000001EDE4D64EC0 49] Android, [000001EDE6310F00][000001EDE4D69040 49] Android_Low, [000001EDE6364F00][000001EDE4D6D1C0 49] Android_Mid, [000001EDE6310400][000001EDE4D71340 49] Android_High, [000001EDE6365A00][000001EDE4D754C0 49] Android_Default, [000001EDE6310800][000001EDE4D79640 49] Android_Adreno4xx, [000001EDE6366000][000001EDE4D7D7C0 49] Android_Adreno5xx_Low, [000001EDE6310200][000001EDE4D81940 49] Android_Adreno5xx, [000001EDE6366500][000001EDE4D3DA80 49] Android_Adreno6xx, [000001EDE6313900][000001EDE4D85BC0 49] Android_Adreno6xx_Vulkan, [000001EDE6366F00][000001EDE4D89D00 49] Android_Mali_T6xx, [000001EDE6311E00][000001EDE4D901C0 49] Android_Mali_T7xx, [000001EDE6366900][000001EDE4D94340 49] Android_Mali_T8xx, [000001EDE6311300][000001EDE4D984C0 49] Android_Mali_G71, [000001EDE6365100][000001EDE4D9C640 49] Android_Mali_G72, [000001EDE6310500][000001EDE4DA07C0 49] Android_Mali_G72_Vulkan, [000001EDE6367700][000001EDE4DA4940 49] Android_Mali_G76, [000001EDE6310E00][000001EDE4DA8AC0 49] Android_Mali_G76_Vulkan, [000001EDE6365700][000001EDE4DACC40 49] Android_Mali_G77, [000001EDE6312F00][000001EDE4DB0DC0 49] Android_Mali_G77_Vulkan, [000001EDE6367200][000001EDE4DB4F40 49] Android_Vulkan_SM5, [000001EDE6313800][000001EDE4DB90C0 49] Android_PowerVR_G6xxx, [000001EDE6365400][000001EDE4DBD240 49] Android_PowerVR_GT7xxx, [000001EDE6313D00][000001EDE4DC13C0 49] Android_PowerVR_GE8xxx, [000001EDE6364A00][000001EDE4DC5540 49] Android_PowerVR_GM9xxx, [000001EDE6311000][000001EDE4DC96C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001EDE6365C00][000001EDE4DCD840 49] Android_TegraK1, [000001EDE6312500][000001EDE4DD19C0 49] Android_Unknown_Vulkan, [000001EDE6364500][000001EDE4D8DB00 49] Lumin, [000001EDE6349A00][000001EDE4DD5C40 49] Lumin_Desktop, [000001EDE6387800][000001EDE4DD80C0 49] HoloLens, 
+[2021.05.18-07.33.42:555][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.18-07.33.42:555][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.18-07.33.42:555][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.18-07.33.42:555][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.18-07.33.42:555][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.18-07.33.42:789][  0]LogNetVersion: WonderfulWorld 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4281083635)
+[2021.05.18-07.33.53:543][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.18-07.33.53:883][  0]LogPackageLocalizationCache: Processed 40 localized package path(s) for 1 prioritized culture(s) in 0.339631 seconds
+[2021.05.18-07.33.53:890][  0]LogUObjectArray: 17611 objects as part of root set at end of initial load.
+[2021.05.18-07.33.53:890][  0]LogUObjectAllocator: 4508464 out of 0 bytes used by permanent object pool.
+[2021.05.18-07.33.53:890][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.18-07.34.00:107][  0]LogPython: Using Python 3.7.7
+[2021.05.18-07.34.01:543][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.18-07.34.01:559][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.18-07.34.03:704][  0]SourceControl: Source control is disabled
+[2021.05.18-07.34.03:704][  0]SourceControl: Source control is disabled
+[2021.05.18-07.34.03:790][  0]SourceControl: Source control is disabled
+[2021.05.18-07.34.03:826][  0]SourceControl: Source control is disabled
+[2021.05.18-07.34.03:981][  0]SourceControl: Source control is disabled
+[2021.05.18-07.34.04:152][  0]LogUProjectInfo: Found projects:
+[2021.05.18-07.34.06:753][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.18-07.34.06:982][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.18-07.34.06:982][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.18-07.34.08:519][  0]LogOcInput: OculusInput pre-init called
+[2021.05.18-07.34.08:582][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.18-07.34.08:583][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.18-07.34.08:730][  0]LogCollectionManager: Loaded 0 collections in 0.000888 seconds
+[2021.05.18-07.34.08:812][  0]LogFileCache: Scanning file cache for directory 'D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Collections/' took 0.00s
+[2021.05.18-07.34.08:812][  0]LogFileCache: Scanning file cache for directory 'D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Content/Developers/Artur/Collections/' took 0.00s
+[2021.05.18-07.34.08:812][  0]LogFileCache: Scanning file cache for directory 'D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Content/Collections/' took 0.00s
+[2021.05.18-07.34.09:546][  0]LogEngine: Initializing Engine...
+[2021.05.18-07.34.09:549][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.18-07.34.09:549][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.18-07.34.09:550][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.18-07.34.09:752][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.18-07.34.09:778][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.18-07.34.09:778][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.18-07.34.09:804][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.18-07.34.09:804][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.18-07.34.09:804][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.18-07.34.09:804][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.18-07.34.09:804][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.18-07.34.09:804][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.18-07.34.09:804][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.18-07.34.09:804][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.18-07.34.09:804][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.18-07.34.09:804][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.18-07.34.09:805][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.18-07.34.09:805][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.18-07.34.10:008][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.18-07.34.10:008][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.18-07.34.10:122][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2021.05.18-07.34.10:123][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.18-07.34.10:125][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.18-07.34.10:125][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.18-07.34.10:126][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.18-07.34.10:126][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.18-07.34.10:127][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.18-07.34.10:128][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.18-07.34.10:128][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.18-07.34.10:128][  0]LogInit: FAudioDevice initialized.
+[2021.05.18-07.34.10:128][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.18-07.34.10:128][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.18-07.34.10:408][  0]LogDerivedDataCache: Saved boot cache 0.28s 79MB C:/Users/Artur/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.18-07.34.10:409][  0]LogInit: Texture streaming: Enabled
+[2021.05.18-07.34.10:461][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.05.18-07.34.10:496][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.18-07.34.10:496][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.18-07.34.10:497][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.18-07.34.10:631][  0]LogInit: Transaction tracking system initialized
+[2021.05.18-07.34.10:740][  0]BlueprintLog: New page: Editor Load
+[2021.05.18-07.34.11:230][  0]LocalizationService: Localization service is disabled
+[2021.05.18-07.34.11:417][  0]TimingProfiler: Initialize
+[2021.05.18-07.34.11:417][  0]TimingProfiler: OnSessionChanged
+[2021.05.18-07.34.11:417][  0]LoadingProfiler: Initialize
+[2021.05.18-07.34.11:417][  0]LoadingProfiler: OnSessionChanged
+[2021.05.18-07.34.11:417][  0]NetworkingProfiler: Initialize
+[2021.05.18-07.34.11:417][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.18-07.34.11:417][  0]MemoryProfiler: Initialize
+[2021.05.18-07.34.11:418][  0]MemoryProfiler: OnSessionChanged
+[2021.05.18-07.34.13:468][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.18-07.34.13:468][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.18-07.34.14:200][  0]LogFileCache: Scanning file cache for directory 'D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Content/' took 0.01s
+[2021.05.18-07.34.14:818][  0]LogVPUtilitiesEditor: VP Scouting subsystem initialized.
+[2021.05.18-07.34.16:546][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.18-07.34.16:550][  0]SourceControl: Source control is disabled
+[2021.05.18-07.34.16:550][  0]LogUnrealEdMisc: Loading editor; pre map load, took 101.731
+[2021.05.18-07.34.16:550][  0]Cmd: MAP LOAD FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Content/World/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.18-07.34.16:593][  0]LightingResults: New page: Lighting Build
+[2021.05.18-07.34.16:595][  0]LogStreaming: Display: FlushAsyncLoading: 2 QueuedPackages, 0 AsyncPackages
+[2021.05.18-07.34.24:341][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.18-07.34.24:341][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-07.34.24:341][  0]MapCheck: New page: Map Check
+[2021.05.18-07.34.24:341][  0]LightingResults: New page: Lighting Build
+[2021.05.18-07.34.24:383][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.05.18-07.34.27:268][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2021.05.18-07.34.27:269][  0]LogAIModule: Creating AISystem for world TestMap
+[2021.05.18-07.34.29:097][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.18-07.34.29:180][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2021.05.18-07.34.29:181][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.18-07.34.29:182][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,335ms to complete.
+[2021.05.18-07.34.29:182][  0]LogFileHelpers: Loading map 'TestMap' took 12.632
+[2021.05.18-07.34.29:184][  0]LogUnrealEdMisc: Total Editor Startup Time, took 114.366
+[2021.05.18-07.34.29:393][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.18-07.34.29:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.18-07.34.29:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.18-07.34.29:416][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.18-07.34.29:436][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0152 seconds. Added 3970 classes and 1039 folders.
+[2021.05.18-07.34.29:440][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.18-07.34.29:475][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.18-07.34.29:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.18-07.34.29:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.18-07.34.29:477][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.18-07.34.29:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.18-07.34.29:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.05.18-07.34.29:497][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.18-07.34.29:497][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:497][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.18-07.34.29:497][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.18-07.34.29:503][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.18-07.34.29:503][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:503][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.18-07.34.29:503][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.18-07.34.29:511][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.18-07.34.29:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.18-07.34.29:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.05.18-07.34.29:516][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.18-07.34.29:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.18-07.34.29:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.05.18-07.34.29:528][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.18-07.34.29:528][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:528][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.18-07.34.29:528][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.18-07.34.29:534][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.18-07.34.29:534][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:534][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.18-07.34.29:534][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.18-07.34.29:546][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.18-07.34.29:546][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:546][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.18-07.34.29:546][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.05.18-07.34.29:548][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.18-07.34.29:548][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:548][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.18-07.34.29:548][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.05.18-07.34.29:549][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.18-07.34.29:549][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:549][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.18-07.34.29:549][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.05.18-07.34.29:550][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.18-07.34.29:550][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:550][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.18-07.34.29:550][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.05.18-07.34.29:551][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.18-07.34.29:551][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:551][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.18-07.34.29:551][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.05.18-07.34.29:553][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.18-07.34.29:553][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:553][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.18-07.34.29:553][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.05.18-07.34.29:555][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.18-07.34.29:555][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:555][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.18-07.34.29:555][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.05.18-07.34.29:556][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.18-07.34.29:556][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:556][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.18-07.34.29:556][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.05.18-07.34.29:575][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.18-07.34.29:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.18-07.34.29:576][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.05.18-07.34.29:577][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.18-07.34.29:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.18-07.34.29:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.05.18-07.34.29:578][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.18-07.34.29:578][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:578][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.18-07.34.29:578][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.05.18-07.34.29:610][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.18-07.34.29:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.18-07.34.29:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2021.05.18-07.34.29:611][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.18-07.34.29:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.18-07.34.29:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.05.18-07.34.29:613][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.18-07.34.29:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.18-07.34.29:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2021.05.18-07.34.29:614][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.18-07.34.29:614][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:614][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.18-07.34.29:614][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2021.05.18-07.34.29:615][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.18-07.34.29:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.18-07.34.29:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.05.18-07.34.29:617][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.18-07.34.29:617][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:617][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.18-07.34.29:617][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.05.18-07.34.29:625][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.18-07.34.29:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.18-07.34.29:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.18-07.34.29:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.05.18-07.34.30:574][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.18-07.34.30:576][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.18-07.34.30:660][  0]LogSlate: Took 0.018284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.18-07.34.31:400][  0]LogSlate: Took 0.011815 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.18-07.34.31:424][  0]LogSlate: Took 0.016306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.18-07.34.31:686][  0]LogRenderer: Reallocating scene render targets to support 1108x508 Format 9 NumSamples 1 (Frame:1).
+[2021.05.18-07.34.31:812][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.18-07.34.32:111][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.18-07.34.32:112][  0]LogLoad: (Engine Initialization) Total time: 117.29 seconds
+[2021.05.18-07.34.32:112][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.18-07.34.32:112][  0]LogInit: First time updating LLM stats...
+[2021.05.18-07.34.32:375][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/World/TestMap.TestMap:PersistentLevel.BP_FormGeneration2_2.DirtBlock)
+[2021.05.18-07.34.32:375][  0]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: InstancedStaticMeshComponent /Game/World/TestMap.TestMap:PersistentLevel.BP_FormGeneration2_2.GrassBlock)
+[2021.05.18-07.34.32:380][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.05.18-07.34.32:440][  1]LogAssetRegistry: Asset discovery search completed in 50.9069 seconds
+[2021.05.18-07.34.32:442][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.05.18-07.38.50:713][735]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.38.50:713][735]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2021.05.18-07.38.50:713][735]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2021.05.18-07.38.50:747][735]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2021.05.18-07.38.50:747][735]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.18-07.38.50:747][735]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2021.05.18-07.38.50:747][735]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2021.05.18-07.38.50:748][735]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.AnisotropicMaterials:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.SSGI.Quality:1]]
+[2021.05.18-07.38.50:748][735]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2021.05.18-07.38.50:749][735]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:1]]
+[2021.05.18-07.38.50:827][735]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.38.50:827][735]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2021.05.18-07.38.50:827][735]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2021.05.18-07.38.50:827][735]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Saved/Config/Windows/Scalability.ini]
+[2021.05.18-07.38.50:827][735]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.18-07.38.50:827][735]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.18-07.38.50:827][735]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2021.05.18-07.38.50:952][736]LogContentStreaming: Texture pool size now 600 MB
+[2021.05.18-07.38.51:019][738]LogRenderer: Reallocating scene render targets to support 1108x508 Format 9 NumSamples 1 (Frame:919).
+[2021.05.18-08.09.49:682][196]LogSlate: Took 0.022033 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.18-08.09.50:110][196]LogSlate: Took 0.037888 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.18-08.10.03:500][550]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_GenerationChunk.BP_GenerationChunk
+[2021.05.18-08.10.06:081][550]LogLinker: Warning: [AssetLog] D:\Programm\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.18-08.10.06:082][550]LogLinker: Warning: [AssetLog] D:\Programm\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.18-08.10.06:082][550]LogLinker: Warning: [AssetLog] D:\Programm\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.18-08.10.08:593][550]LogLinker: Warning: [AssetLog] D:\Programm\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.18-08.10.08:605][550]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.05.18-08.10.08:672][550]LogLinker: Warning: [AssetLog] D:\Programm\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.05.18-08.10.08:672][550]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.05.18-08.10.09:195][550]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.05.18-08.10.09:248][550]LogMaterial: Warning: [AssetLog] D:\Programm\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.18-08.10.09:249][550]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.18-08.10.09:266][550]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.05.18-08.10.09:268][550]LogMaterial: Warning: [AssetLog] D:\Programm\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.05.18-08.10.09:268][550]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.05.18-08.10.10:435][550]LogBlueprintEditor: Perf: 6.5 total seconds to load all 12 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.05.18-08.10.10:435][550]LogBlueprintEditor: Perf: 5.7 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.05.18-08.10.12:072][550]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 126 classes and 0 folders.
+[2021.05.18-08.10.15:013][550]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2021.05.18-08.10.19:894][550]LogRenderer: Reallocating scene render targets to support 1188x768 Format 9 NumSamples 1 (Frame:1).
+[2021.05.18-08.10.23:908][755]LogSlate: Window 'BP_GenerationChunk' being destroyed
+[2021.05.18-08.11.37:057][919]Candidate modules for hot reload:
+[2021.05.18-08.11.37:057][919]  WonderfulWorld
+[2021.05.18-08.11.37:057][919]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,1994 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-08.11.38:155][919]Warning: Starting HotReload took  1.3s.
+[2021.05.18-08.11.53:255][ 10]LogEditor: Attempting to add actor of class 'GenerationChunk' to level at 2300.00,400.00,400.00
+[2021.05.18-08.11.54:282][ 10]LogEditor: Attempting to add actor of class 'GenerationChunk' to level at 2300.00,200.00,300.00
+[2021.05.18-08.12.43:842][161]LogSlate: Took 0.029136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.18-08.15.31:016][257]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 14:15:30
+[2021.05.18-08.15.31:028][257]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-08.15.31:028][257]CompilerResultsLog: Creating makefile for WonderfulWorldEditor (game project files are newer)
+[2021.05.18-08.15.31:028][257]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-08.15.31:028][257]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-08.15.31:028][257]CompilerResultsLog: Reflection code generated for WonderfulWorldEditor in 48,1161837 seconds
+[2021.05.18-08.15.31:028][257]CompilerResultsLog: Building WonderfulWorldEditor...
+[2021.05.18-08.15.31:028][257]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.18-08.15.31:028][257]CompilerResultsLog: Building 5 actions with 8 processes...
+[2021.05.18-08.15.31:038][257]LogMainFrame: MainFrame: Module compiling took 234.112 seconds
+[2021.05.18-08.15.31:242][257]Warning: HotReload failed, recompile failed
+[2021.05.18-08.15.41:774][412]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2021.05.18-08.15.43:106][412]LogSlate: Window 'Message' being destroyed
+[2021.05.18-08.15.43:111][412]Message dialog closed, result: Ok, title: Message, text: Live Coding cannot be enabled while hot-reloaded modules are active. Please close the editor and build from your IDE before restarting.
+[2021.05.18-08.15.43:120][413]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2021.05.18-08.16.00:675][ 80]Running D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" -game -rocket -progress
+[2021.05.18-08.16.01:318][ 80]Discovering modules, targets and source code for project...
+[2021.05.18-08.16.04:955][ 80]Binding IntelliSense data...
+[2021.05.18-08.16.23:609][ 80]Binding IntelliSense data... 50%
+[2021.05.18-08.16.23:609][ 80]Binding IntelliSense data... 100%
+[2021.05.18-08.16.23:710][ 80]Writing project files...
+[2021.05.18-08.16.33:809][ 80]Writing project files... 100%
+[2021.05.18-08.16.59:166][992]Cmd: DELETE
+[2021.05.18-08.16.59:180][992]Cmd: ACTOR DELETE
+[2021.05.18-08.17.02:933][992]LogEditorActor: Deleted Actor: GenerationChunk
+[2021.05.18-08.17.03:983][992]LogUObjectHash: Compacting FUObjectHashTables data took  19.29ms
+[2021.05.18-08.17.04:039][992]LogEditorActor: Deleted 1 Actors (4.358 secs)
+[2021.05.18-08.17.05:333][135]LogEditor: Attempting to add actor of class 'GenerationChunk' to level at 2400.00,500.00,500.00
+[2021.05.18-08.17.05:758][182]LogEditor: Attempting to add actor of class 'GenerationChunk' to level at 2400.00,500.00,500.00
+[2021.05.18-08.17.12:626][920]Cmd: DELETE
+[2021.05.18-08.17.12:626][920]Cmd: ACTOR DELETE
+[2021.05.18-08.17.12:714][920]LogEditorActor: Deleted Actor: GenerationChunk
+[2021.05.18-08.17.12:751][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.05.18-08.17.12:753][920]LogEditorActor: Deleted 1 Actors (0.127 secs)
+[2021.05.18-08.20.22:044][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.05.18-08.20.22:294][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/TestMap" FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.18-08.20.25:319][929]LogSavePackage: Moving '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/TestMap_Auto1ED6F10A749225308A5696E9569A93448.tmp' to '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto1.umap'
+[2021.05.18-08.20.25:448][929]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/TestMap' took 3.441
+[2021.05.18-08.20.25:471][929]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.441
+[2021.05.18-08.20.44:050][ 78]LogEditor: Attempting to add actor of class 'GenerationChunk' to level at 2500.00,500.00,400.00
+[2021.05.18-08.20.44:065][ 78]LogEditor: Attempting to add actor of class 'GenerationChunk' to level at 2500.00,500.00,400.00
+[2021.05.18-08.20.47:044][354]Cmd: DELETE
+[2021.05.18-08.20.47:044][354]Cmd: ACTOR DELETE
+[2021.05.18-08.20.47:141][354]LogEditorActor: Deleted Actor: GenerationChunk
+[2021.05.18-08.20.47:264][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.05.18-08.20.47:266][354]LogEditorActor: Deleted 1 Actors (0.222 secs)
+[2021.05.18-08.21.02:100][ 56]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.05.18-08.21.02:160][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-08.21.03:846][178]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_GenerationChunk.BP_GenerationChunk
+[2021.05.18-08.21.08:868][668]LogSlate: Window 'BP_GenerationChunk' being destroyed
+[2021.05.18-08.21.14:317][295]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2021.05.18-08.21.16:158][295]LogSlate: Window 'Message' being destroyed
+[2021.05.18-08.21.16:162][295]Message dialog closed, result: Ok, title: Message, text: Live Coding cannot be enabled while hot-reloaded modules are active. Please close the editor and build from your IDE before restarting.
+[2021.05.18-08.21.32:733][840]Candidate modules for hot reload:
+[2021.05.18-08.21.32:734][840]  WonderfulWorld
+[2021.05.18-08.21.32:734][840]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,7118 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-08.21.35:034][840]Warning: Starting HotReload took  2.4s.
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 14:27:09
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Creating makefile for WonderfulWorldEditor (no existing makefile)
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Reflection code generated for WonderfulWorldEditor in 47,0359244 seconds
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Building WonderfulWorldEditor...
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:   [1/6] GenerationChunk.cpp
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:   [2/6] WonderfulWorld.init.gen.cpp
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:   [3/6] GenerationChunk.gen.cpp
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:   [4/6] UE4Editor-WonderfulWorld-7118.lib
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-7118.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-7118.exp
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:   [5/6] UE4Editor-WonderfulWorld-7118.dll
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-7118.suppressed.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-7118.suppressed.exp
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog:   [6/6] WonderfulWorldEditor.target
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Total time in Parallel executor: 260,28 seconds
+[2021.05.18-08.27.09:570][ 88]CompilerResultsLog: Total execution time: 332,73 seconds
+[2021.05.18-08.27.09:570][ 88]LogMainFrame: MainFrame: Module compiling took 336.842 seconds
+[2021.05.18-08.27.11:213][ 88]LogClass: Could not find existing class GenerationChunk in package /Script/WonderfulWorld for HotReload, assuming new class
+[2021.05.18-08.27.13:192][ 88]LogHotReload: Re-instancing GenerationChunk after hot-reload.
+[2021.05.18-08.27.13:570][ 88]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WonderfulWorld' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.05.18-08.27.14:697][ 88]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.18-08.27.18:847][ 88]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.1134 seconds. Added 3970 classes and 1039 folders.
+[2021.05.18-08.27.18:988][ 88]Display: HotReload took 346.3s.
+[2021.05.18-08.30.26:761][807]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2021.05.18-08.30.26:764][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/TestMap" FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.18-08.30.27:844][807]LogSavePackage: Moving '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/TestMap_Auto21DB3784041ABE5559B562ABE3BC9BC30.tmp' to '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto2.umap'
+[2021.05.18-08.30.27:874][807]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/TestMap' took 2.210
+[2021.05.18-08.30.27:874][807]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.210
+[2021.05.18-08.32.44:468][216]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-08.32.44:468][216]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-08.34.08:444][372]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-08.34.08:444][372]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-08.36.12:494][901]Candidate modules for hot reload:
+[2021.05.18-08.36.12:494][901]  WonderfulWorld
+[2021.05.18-08.36.12:494][901]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,5813 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-08.36.12:527][901]Warning: Starting HotReload took  0.1s.
+[2021.05.18-08.36.13:073][929]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.05.18-08.36.39:027][627]Cmd: DELETE
+[2021.05.18-08.36.39:027][627]Cmd: ACTOR DELETE
+[2021.05.18-08.36.39:239][627]LogEditorActor: Deleted Actor: Brush
+[2021.05.18-08.36.40:019][627]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2021.05.18-08.36.47:206][627]LogEditorActor: Deleted 1 Actors (8.127 secs)
+[2021.05.18-08.40.28:519][832]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2021.05.18-08.40.29:514][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/TestMap" FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.18-08.40.30:623][832]LogSavePackage: Moving '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/TestMap_Auto3398AB78441239AA0ADB6E9B45FDEF1EB.tmp' to '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto3.umap'
+[2021.05.18-08.40.30:628][832]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/TestMap' took 2.279
+[2021.05.18-08.40.30:628][832]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.279
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 14:42:24
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-08.42.24:099][173]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: Reflection code generated for WonderfulWorldEditor in 77,3187077 seconds
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: Building WonderfulWorldEditor...
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: Building 5 actions with 8 processes...
+[2021.05.18-08.42.24:099][173]CompilerResultsLog:   [1/5] GenerationChunk.cpp
+[2021.05.18-08.42.24:099][173]CompilerResultsLog:   [2/5] GenerationChunk.gen.cpp
+[2021.05.18-08.42.24:099][173]CompilerResultsLog:   [3/5] UE4Editor-WonderfulWorld-5813.lib
+[2021.05.18-08.42.24:099][173]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-5813.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-5813.exp
+[2021.05.18-08.42.24:099][173]CompilerResultsLog:   [4/5] UE4Editor-WonderfulWorld-5813.dll
+[2021.05.18-08.42.24:099][173]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-5813.suppressed.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-5813.suppressed.exp
+[2021.05.18-08.42.24:099][173]CompilerResultsLog:   [5/5] WonderfulWorldEditor.target
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: Total time in Parallel executor: 287,06 seconds
+[2021.05.18-08.42.24:099][173]CompilerResultsLog: Total execution time: 370,59 seconds
+[2021.05.18-08.42.24:099][173]LogMainFrame: MainFrame: Module compiling took 371.612 seconds
+[2021.05.18-08.42.25:278][173]LogClass: Could not find existing class GenerationChunk in package /Script/WonderfulWorld for HotReload, assuming new class
+[2021.05.18-08.42.25:519][173]LogHotReload: Re-instancing GenerationChunk after hot-reload.
+[2021.05.18-08.42.25:615][173]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WonderfulWorld' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2021.05.18-08.42.28:062][173]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.18-08.42.28:347][173]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0153 seconds. Added 3970 classes and 1039 folders.
+[2021.05.18-08.42.28:359][173]Display: HotReload took 376.0s.
+[2021.05.18-08.44.29:006][532]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-08.44.29:006][532]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-08.44.39:150][530]Cmd: DELETE
+[2021.05.18-08.44.39:150][530]Cmd: ACTOR DELETE
+[2021.05.18-08.44.39:239][530]LogEditorActor: Deleted Actor: BP_GenerationChunk_C
+[2021.05.18-08.44.39:398][530]LogUObjectHash: Compacting FUObjectHashTables data took   7.34ms
+[2021.05.18-08.44.39:440][530]LogEditorActor: Deleted 1 Actors (0.290 secs)
+[2021.05.18-08.46.50:292][221]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-08.46.50:292][221]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-08.48.28:603][952]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.18-08.48.28:603][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-08.48.28:781][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_GenerationChunk.BP_GenerationChunk
+[2021.05.18-08.48.38:868][151]LogSlate: Window 'BP_GenerationChunk' being destroyed
+[2021.05.18-08.49.08:002][528]Candidate modules for hot reload:
+[2021.05.18-08.49.08:002][528]  WonderfulWorld
+[2021.05.18-08.49.08:002][528]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,7808 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-08.49.08:052][528]Warning: Starting HotReload took  0.2s.
+[2021.05.18-08.49.18:456][647]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 14:49:18
+[2021.05.18-08.49.18:457][647]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-08.49.18:457][647]CompilerResultsLog: Invalidating makefile for WonderfulWorldEditor (GenerationChunk.gen.cpp modified)
+[2021.05.18-08.49.18:457][647]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-08.49.18:457][647]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-08.49.18:457][647]CompilerResultsLog: Error: D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Source/WonderfulWorld/GenerationChunk.h(26)  : LogCompile: Error: Unknown variable specifier 'BlueprintsReadRyte'
+[2021.05.18-08.49.18:457][647]LogMainFrame: MainFrame: Module compiling took 10.461 seconds
+[2021.05.18-08.49.18:457][647]Warning: HotReload failed, recompile failed
+[2021.05.18-08.49.25:902][668]Candidate modules for hot reload:
+[2021.05.18-08.49.25:902][668]  WonderfulWorld
+[2021.05.18-08.49.25:902][668]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,7224 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-08.49.25:908][668]Warning: Starting HotReload took  0.0s.
+[2021.05.18-08.49.37:553][421]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 14:49:37
+[2021.05.18-08.49.37:553][421]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-08.49.37:553][421]CompilerResultsLog: Invalidating makefile for WonderfulWorldEditor (GenerationChunk.gen.cpp modified)
+[2021.05.18-08.49.37:553][421]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-08.49.37:553][421]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-08.49.37:553][421]CompilerResultsLog: Error: D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Source/WonderfulWorld/GenerationChunk.h(26)  : LogCompile: Error: Unknown variable specifier 'BlueprintsReadRyte'
+[2021.05.18-08.49.37:589][421]LogMainFrame: MainFrame: Module compiling took 11.693 seconds
+[2021.05.18-08.49.37:589][421]Warning: HotReload failed, recompile failed
+[2021.05.18-08.49.38:527][422]LogSlate: Took 0.195617 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.18-08.50.04:168][870]Candidate modules for hot reload:
+[2021.05.18-08.50.04:168][870]  WonderfulWorld
+[2021.05.18-08.50.04:168][870]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,4395 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-08.50.04:194][870]Warning: Starting HotReload took  0.0s.
+[2021.05.18-08.50.13:993][317]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 14:50:13
+[2021.05.18-08.50.13:993][317]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-08.50.13:993][317]CompilerResultsLog: Invalidating makefile for WonderfulWorldEditor (GenerationChunk.gen.cpp modified)
+[2021.05.18-08.50.13:993][317]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-08.50.13:993][317]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-08.50.13:994][317]CompilerResultsLog: Error: D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Source/WonderfulWorld/GenerationChunk.h(26)  : LogCompile: Error: Unknown variable specifier 'BlueprintReadRyte'
+[2021.05.18-08.50.13:994][317]LogMainFrame: MainFrame: Module compiling took 9.831 seconds
+[2021.05.18-08.50.13:994][317]Warning: HotReload failed, recompile failed
+[2021.05.18-08.50.34:028][366]LogUObjectHash: Compacting FUObjectHashTables data took   9.27ms
+[2021.05.18-08.50.34:320][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/TestMap" FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.18-08.50.41:310][366]LogSavePackage: Moving '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/TestMap_Auto48130A641480A0FBFAA7179BA86D59E00.tmp' to '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto4.umap'
+[2021.05.18-08.50.41:316][366]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/TestMap' took 10.503
+[2021.05.18-08.50.41:316][366]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 10.503
+[2021.05.18-08.51.20:598][572]Candidate modules for hot reload:
+[2021.05.18-08.51.20:598][572]  WonderfulWorld
+[2021.05.18-08.51.20:599][572]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,6106 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-08.51.20:618][572]Warning: Starting HotReload took 33.1s.
+[2021.05.18-08.54.06:336][822]LogSlate: Window 'BP_GenerationChunk' being destroyed
+[2021.05.18-08.54.08:197][995]LogSlate: Window 'BP_GenerationChunk' being destroyed
+[2021.05.18-08.59.35:472][790]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 14:59:35
+[2021.05.18-08.59.35:472][790]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-08.59.35:472][790]CompilerResultsLog: Invalidating makefile for WonderfulWorldEditor (GenerationChunk.gen.cpp modified)
+[2021.05.18-08.59.35:472][790]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-08.59.35:472][790]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-08.59.35:472][790]CompilerResultsLog: Reflection code generated for WonderfulWorldEditor in 7,4890943 seconds
+[2021.05.18-08.59.35:472][790]CompilerResultsLog: Building WonderfulWorldEditor...
+[2021.05.18-08.59.35:472][790]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.18-08.59.35:472][790]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.05.18-08.59.35:472][790]CompilerResultsLog:   [1/6] GenerationChunk.cpp
+[2021.05.18-08.59.35:472][790]CompilerResultsLog:   [2/6] WonderfulWorld.init.gen.cpp
+[2021.05.18-08.59.35:472][790]CompilerResultsLog:   [3/6] GenerationChunk.gen.cpp
+[2021.05.18-08.59.35:472][790]CompilerResultsLog:   [4/6] UE4Editor-WonderfulWorld-6106.lib
+[2021.05.18-08.59.35:472][790]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-6106.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-6106.exp
+[2021.05.18-08.59.35:472][790]CompilerResultsLog:   [5/6] UE4Editor-WonderfulWorld-6106.dll
+[2021.05.18-08.59.35:473][790]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-6106.suppressed.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-6106.suppressed.exp
+[2021.05.18-08.59.35:473][790]CompilerResultsLog:   [6/6] WonderfulWorldEditor.target
+[2021.05.18-08.59.35:473][790]CompilerResultsLog: Total time in Parallel executor: 479,98 seconds
+[2021.05.18-08.59.35:473][790]CompilerResultsLog: Total execution time: 494,40 seconds
+[2021.05.18-08.59.35:473][790]LogMainFrame: MainFrame: Module compiling took 494.885 seconds
+[2021.05.18-08.59.36:573][790]LogClass: Could not find existing class GenerationChunk in package /Script/WonderfulWorld for HotReload, assuming new class
+[2021.05.18-08.59.36:738][790]LogHotReload: Re-instancing GenerationChunk after hot-reload.
+[2021.05.18-08.59.37:147][790]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WonderfulWorld' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2021.05.18-08.59.37:325][790]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.18-08.59.37:668][790]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0166 seconds. Added 3970 classes and 1039 folders.
+[2021.05.18-08.59.37:735][790]Display: HotReload took 530.2s.
+[2021.05.18-09.00.08:103][992]BlueprintLog: New page: Compile BP_GenerationChunk
+[2021.05.18-09.00.09:382][992]LogUObjectHash: Compacting FUObjectHashTables data took   9.28ms
+[2021.05.18-09.00.22:525][400]BlueprintLog: New page: Compile BP_GenerationChunk
+[2021.05.18-09.00.22:701][400]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
+[2021.05.18-09.00.23:332][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GenerationChunk" FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Content/BP_GenerationChunk.uasset" SILENT=true
+[2021.05.18-09.00.23:489][440]LogSavePackage: Moving '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/BP_GenerationChunkC6716AA4457176B8F52C98B54BEF8F38.tmp' to '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Content/BP_GenerationChunk.uasset'
+[2021.05.18-09.00.24:030][440]AssetCheck: New page: Asset Save: BP_GenerationChunk
+[2021.05.18-09.00.24:030][440]LogContentValidation: Display: Validating Blueprint /Game/BP_GenerationChunk.BP_GenerationChunk
+[2021.05.18-09.00.50:239][591]LogRenderer: Reallocating scene render targets to support 1384x768 Format 9 NumSamples 1 (Frame:103722).
+[2021.05.18-09.23.13:281][906]Candidate modules for hot reload:
+[2021.05.18-09.23.13:281][906]  WonderfulWorld
+[2021.05.18-09.23.13:282][906]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,5897 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-09.23.13:431][906]Warning: Starting HotReload took  0.8s.
+[2021.05.18-09.31.11:134][510]LogUObjectHash: Compacting FUObjectHashTables data took 1956.04ms
+[2021.05.18-09.31.13:526][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/TestMap" FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.18-09.31.17:198][510]LogSavePackage: Moving '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/TestMap_Auto56F1B95744281A418FA524F8E5F3305BE.tmp' to '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto5.umap'
+[2021.05.18-09.31.17:972][510]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/TestMap' took 24.350
+[2021.05.18-09.31.17:986][510]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 24.350
+[2021.05.18-09.31.35:016][560]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-09.31.35:016][560]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-09.31.44:971][869]LogSlate: Took 0.283172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.05.18-09.33.08:055][259]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 15:33:08
+[2021.05.18-09.33.08:055][259]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-09.33.08:055][259]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-09.33.08:055][259]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-09.33.08:055][259]CompilerResultsLog: Reflection code generated for WonderfulWorldEditor in 99,6852282 seconds
+[2021.05.18-09.33.08:055][259]CompilerResultsLog: Building WonderfulWorldEditor...
+[2021.05.18-09.33.08:055][259]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.18-09.33.08:055][259]CompilerResultsLog: Building 5 actions with 8 processes...
+[2021.05.18-09.33.08:055][259]CompilerResultsLog:   [1/5] GenerationChunk.cpp
+[2021.05.18-09.33.08:055][259]CompilerResultsLog:    D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Source\WonderfulWorld\GenerationChunk.h(29) : error C3646: MyActor: ??????????? ᯥ??䨪???? ??८?।??????
+[2021.05.18-09.33.08:055][259]CompilerResultsLog:    D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Source\WonderfulWorld\GenerationChunk.h(29) : error C4430: ??????????? ᯥ??䨪???? ⨯? - ?।?????????? int. ?ਬ?砭??. C++ ?? ?????ন???? int ?? 㬮?砭??
+[2021.05.18-09.33.08:055][259]CompilerResultsLog:   [2/5] GenerationChunk.gen.cpp
+[2021.05.18-09.33.08:055][259]CompilerResultsLog:    D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Source\WonderfulWorld/GenerationChunk.h(29) : error C3646: MyActor: ??????????? ᯥ??䨪???? ??८?।??????
+[2021.05.18-09.33.08:055][259]CompilerResultsLog:    D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Source\WonderfulWorld/GenerationChunk.h(29) : error C4430: ??????????? ᯥ??䨪???? ⨯? - ?।?????????? int. ?ਬ?砭??. C++ ?? ?????ন???? int ?? 㬮?砭??
+[2021.05.18-09.33.08:055][259]LogMainFrame: MainFrame: Module compiling took 594.799 seconds
+[2021.05.18-09.33.08:055][259]Warning: HotReload failed, recompile failed
+[2021.05.18-09.33.12:066][579]LogSlate: Took 0.465087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.05.18-09.33.12:077][579]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ᯥ (U+1be5)'
+[2021.05.18-09.33.12:233][579]LogSlate: Took 0.154135 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.05.18-09.33.59:302][257]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-09.33.59:302][257]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.18-09.35.10:674][867]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.05.18-09.35.10:926][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-09.35.26:283][238]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2021.05.18-09.35.27:658][238]LogSlate: Window 'Message' being destroyed
+[2021.05.18-09.35.27:663][238]Message dialog closed, result: Ok, title: Message, text: Live Coding cannot be enabled while hot-reloaded modules are active. Please close the editor and build from your IDE before restarting.
+[2021.05.18-09.35.27:673][239]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2021.05.18-09.35.32:335][627]Cmd: DELETE
+[2021.05.18-09.35.32:361][627]Cmd: ACTOR DELETE
+[2021.05.18-09.35.33:451][627]LogEditorActor: Deleted Actor: BP_GenerationChunk_C
+[2021.05.18-09.35.35:775][627]LogUObjectHash: Compacting FUObjectHashTables data took  72.57ms
+[2021.05.18-09.35.36:044][627]LogEditorActor: Deleted 1 Actors (2.908 secs)
+[2021.05.18-09.35.42:656][242]Cmd: DELETE
+[2021.05.18-09.35.42:656][242]Cmd: ACTOR DELETE
+[2021.05.18-09.35.42:754][242]LogEditorActor: Deleted Actor: BP_GenerationChunk_C
+[2021.05.18-09.35.44:222][242]LogUObjectHash: Compacting FUObjectHashTables data took 198.06ms
+[2021.05.18-09.35.44:471][242]LogEditorActor: Deleted 1 Actors (1.816 secs)
+[2021.05.18-09.35.45:506][300]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_GenerationChunk.BP_GenerationChunk
+[2021.05.18-09.35.59:754][ 82]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2021.05.18-09.36.01:241][ 82]LogSlate: Window 'Message' being destroyed
+[2021.05.18-09.36.01:245][ 82]Message dialog closed, result: Ok, title: Message, text: Live Coding cannot be enabled while hot-reloaded modules are active. Please close the editor and build from your IDE before restarting.
+[2021.05.18-09.36.02:910][264]LogLiveCoding: Error: Unable to start live coding session. Some modules have already been hot reloaded.
+[2021.05.18-09.36.31:423][264]LogSlate: Window 'Message' being destroyed
+[2021.05.18-09.36.31:428][264]Message dialog closed, result: Ok, title: Message, text: Live Coding cannot be enabled while hot-reloaded modules are active. Please close the editor and build from your IDE before restarting.
+[2021.05.18-09.36.34:439][582]Candidate modules for hot reload:
+[2021.05.18-09.36.34:440][582]  WonderfulWorld
+[2021.05.18-09.36.34:440][582]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,6424 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-09.36.34:493][582]Warning: Starting HotReload took  0.1s.
+[2021.05.18-09.36.36:855][813]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.05.18-09.36.36:855][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-09.42.10:775][101]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 15:42:10
+[2021.05.18-09.42.10:775][101]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-09.42.10:775][101]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-09.42.10:775][101]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-09.42.10:775][101]CompilerResultsLog: Reflection code generated for WonderfulWorldEditor in 55,8338562 seconds
+[2021.05.18-09.42.10:775][101]CompilerResultsLog: Building WonderfulWorldEditor...
+[2021.05.18-09.42.10:775][101]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.18-09.42.10:775][101]CompilerResultsLog: Building 5 actions with 8 processes...
+[2021.05.18-09.42.10:775][101]CompilerResultsLog:   [1/5] GenerationChunk.cpp
+[2021.05.18-09.42.10:775][101]CompilerResultsLog:   [2/5] GenerationChunk.gen.cpp
+[2021.05.18-09.42.10:775][101]CompilerResultsLog:   [3/5] UE4Editor-WonderfulWorld-6424.lib
+[2021.05.18-09.42.10:775][101]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-6424.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-6424.exp
+[2021.05.18-09.42.10:775][101]CompilerResultsLog:   [4/5] UE4Editor-WonderfulWorld-6424.dll
+[2021.05.18-09.42.10:775][101]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-6424.suppressed.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-6424.suppressed.exp
+[2021.05.18-09.42.10:775][101]CompilerResultsLog:   [5/5] WonderfulWorldEditor.target
+[2021.05.18-09.42.10:776][101]CompilerResultsLog: Total time in Parallel executor: 269,33 seconds
+[2021.05.18-09.42.10:776][101]CompilerResultsLog: Total execution time: 335,18 seconds
+[2021.05.18-09.42.10:776][101]LogMainFrame: MainFrame: Module compiling took 336.341 seconds
+[2021.05.18-09.42.11:369][101]LogClass: Could not find existing class GenerationChunk in package /Script/WonderfulWorld for HotReload, assuming new class
+[2021.05.18-09.42.11:882][101]LogHotReload: Re-instancing GenerationChunk after hot-reload.
+[2021.05.18-09.42.11:962][101]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WonderfulWorld' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2021.05.18-09.42.12:166][101]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2021.05.18-09.42.13:114][101]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0750 seconds. Added 3970 classes and 1039 folders.
+[2021.05.18-09.42.13:151][101]Display: HotReload took 338.8s.
+[2021.05.18-09.42.18:877][486]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_GenerationChunk.BP_GenerationChunk
+[2021.05.18-09.44.20:746][509]Candidate modules for hot reload:
+[2021.05.18-09.44.20:746][509]  WonderfulWorld
+[2021.05.18-09.44.20:746][509]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,7228 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-09.44.20:916][509]Warning: Starting HotReload took  0.4s.
+[2021.05.18-09.45.28:400][415]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 15:45:28
+[2021.05.18-09.45.28:400][415]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-09.45.28:400][415]CompilerResultsLog: Invalidating makefile for WonderfulWorldEditor (GenerationChunk.gen.cpp modified)
+[2021.05.18-09.45.28:400][415]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-09.45.28:400][415]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-09.45.28:400][415]CompilerResultsLog: Error: D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/Source/WonderfulWorld/GenerationChunk.h(32)  : Error: 'Enum' is not allowed here
+[2021.05.18-09.45.28:400][415]LogMainFrame: MainFrame: Module compiling took 67.660 seconds
+[2021.05.18-09.45.28:400][415]Warning: HotReload failed, recompile failed
+[2021.05.18-10.01.23:620][980]LogUObjectHash: Compacting FUObjectHashTables data took  36.09ms
+[2021.05.18-10.01.24:071][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/World/TestMap" FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.05.18-10.01.25:140][980]LogSavePackage: Moving '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/TestMap_Auto6DF9844334D922CF01E5FADB1D64F4625.tmp' to '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/World/TestMap_Auto6.umap'
+[2021.05.18-10.01.25:171][980]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/World/TestMap' took 6.614
+[2021.05.18-10.01.25:171][980]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 6.614
+[2021.05.18-10.01.25:227][980]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_GenerationChunk] ([1] browsable assets)...
+[2021.05.18-10.01.25:227][980]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_GenerationChunk]
+[2021.05.18-10.01.25:227][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_GenerationChunk" FILE="../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/BP_GenerationChunk_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2021.05.18-10.01.25:292][980]LogSavePackage: Moving '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/BP_GenerationChunk_Auto61144116045E283CC25CB0B9764DB139D.tmp' to '../../../../../UE4/Git/Tww/Tww/WonderfulWorld/Saved/Autosaves/Game/BP_GenerationChunk_Auto6.uasset'
+[2021.05.18-10.01.25:292][980]LogFileHelpers: Auto-saving content packages took 0.121
+[2021.05.18-10.05.44:097][855]Candidate modules for hot reload:
+[2021.05.18-10.05.44:097][855]  WonderfulWorld
+[2021.05.18-10.05.44:097][855]Launching UnrealBuildTool... [D:/Programm/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=WonderfulWorld,2203 WonderfulWorldEditor Win64 Development -Project="D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject" "D:/Programm/UE4/Git/Tww/Tww/WonderfulWorld/WonderfulWorld.uproject"  -IgnoreJunk]
+[2021.05.18-10.06.07:703][855]Warning: Starting HotReload took 23.8s.
+[2021.05.18-10.11.17:606][523]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.05.18-10.11.17:606][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.18-10.14.22:529][277]CompilerResultsLog: New page: Compilation - 18 мая 2021 г., 16:14:22
+[2021.05.18-10.14.22:529][277]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
+[2021.05.18-10.14.22:544][277]CompilerResultsLog: Invalidating makefile for WonderfulWorldEditor (GenerationChunk.gen.cpp modified)
+[2021.05.18-10.14.22:544][277]CompilerResultsLog: Parsing headers for WonderfulWorldEditor
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:   Running UnrealHeaderTool "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2021.05.18-10.14.22:544][277]CompilerResultsLog: Reflection code generated for WonderfulWorldEditor in 53,5632929 seconds
+[2021.05.18-10.14.22:544][277]CompilerResultsLog: Building WonderfulWorldEditor...
+[2021.05.18-10.14.22:544][277]CompilerResultsLog: Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.05.18-10.14.22:544][277]CompilerResultsLog: Building 6 actions with 8 processes...
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:   [1/6] GenerationChunk.cpp
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:   [2/6] WonderfulWorld.init.gen.cpp
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:   [3/6] GenerationChunk.gen.cpp
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:   [4/6] UE4Editor-WonderfulWorld-2203.lib
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-2203.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-2203.exp
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:   [5/6] UE4Editor-WonderfulWorld-2203.dll
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:      ????????? ??????⥪? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-2203.suppressed.lib ? ??ꥪ? D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-2203.suppressed.exp
+[2021.05.18-10.14.22:544][277]CompilerResultsLog:   [6/6] WonderfulWorldEditor.target
+[2021.05.18-10.14.22:544][277]CompilerResultsLog: Total time in Parallel executor: 422,85 seconds
+[2021.05.18-10.14.22:544][277]CompilerResultsLog: Total execution time: 494,03 seconds
+[2021.05.18-10.14.22:545][277]LogMainFrame: MainFrame: Module compiling took 518.454 seconds
+[2021.05.18-10.14.23:495][277]LogClass: Could not find existing class GenerationChunk in package /Script/WonderfulWorld for HotReload, assuming new class
+[2021.05.18-10.14.23:774][277]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.18-10.14.23:969][277]LogWindows: Windows GetLastError: Операция успешно завершена. (0)

@@ -1,18 +1,11 @@
-﻿  Cleaning WonderfulWorldEditor and UnrealHeaderTool binaries...
-  Creating makefile for WonderfulWorldEditor (no existing makefile)
-  Parsing headers for WonderfulWorldEditor
-    Running UnrealHeaderTool "D:\Programm\UE4\WonderfulWorld\WonderfulWorld.uproject" "D:\Programm\UE4\WonderfulWorld\Intermediate\Build\Win64\WonderfulWorldEditor\Development\WonderfulWorldEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Artur\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for WonderfulWorldEditor in 32,1370867 seconds
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Programm\UE4\Git\Tww\Tww).
   Building WonderfulWorldEditor...
-  Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 11 actions with 8 processes...
-    [1/11] Default.rc2
-    [2/11] SharedPCH.Engine.ShadowErrors.cpp
-    [3/11] ChunkDefault.cpp
-D:\Programm\UE4\WonderfulWorld\Source\WonderfulWorld\WorldGeneration\ChunkDefault.cpp(4): fatal error C1083: Не удается открыть файл включение: WorldGeneration/ChunkDefault.h: No such file or directory,
-    [4/11] WonderfulWorld.cpp
-    [5/11] MyActor.cpp
-    [6/11] WonderfulWorld.init.gen.cpp
-    [7/11] ChunkDefault.gen.cpp
-    [8/11] MyActor.gen.cpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(52,5): error MSB3073: выход из команды ""D:\Programm\Epic Games\UE_4.26\Engine\Build\BatchFiles\Rebuild.bat" WonderfulWorldEditor Win64 Development -Project="D:\Programm\UE4\WonderfulWorld\WonderfulWorld.uproject" -WaitMutex -FromMsBuild" с кодом -1.
+  Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 8 processes...
+    [1/3] UE4Editor-WonderfulWorld-0002.lib
+       Создается библиотека D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-0002.lib и объект D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-0002.exp
+    [2/3] UE4Editor-WonderfulWorld-0002.dll
+       Создается библиотека D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-0002.suppressed.lib и объект D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\UE4Editor-WonderfulWorld-0002.suppressed.exp
+    [3/3] WonderfulWorldEditor.target
+  Total time in Parallel executor: 5,60 seconds
+  Total execution time: 10,79 seconds

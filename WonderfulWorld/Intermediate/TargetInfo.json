@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "WonderfulWorld",
-			"Path": "D:\\Programm\\UE4\\WonderfulWorld\\Source\\WonderfulWorld.Target.cs",
+			"Path": "D:\\Programm\\UE4\\Git\\Tww\\Tww\\WonderfulWorld\\Source\\WonderfulWorld.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "WonderfulWorldEditor",
-			"Path": "D:\\Programm\\UE4\\WonderfulWorld\\Source\\WonderfulWorldEditor.Target.cs",
+			"Path": "D:\\Programm\\UE4\\Git\\Tww\\Tww\\WonderfulWorld\\Source\\WonderfulWorldEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

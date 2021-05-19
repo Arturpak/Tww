@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\WonderfulWorld.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D0FB06E5-6BBF-4205-B1DC-351B53FE3C56}</UniqueIdentifier>
+      <UniqueIdentifier>{A4D84CA7-42A7-4A16-8DFB-A7D13A3A40C5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\WonderfulWorld.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{1E2BBF62-A7C7-4167-979E-FEA9C36FF3C3}</UniqueIdentifier>
+      <UniqueIdentifier>{A91B142B-C04E-4EA5-9A82-60529DC0F683}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\WonderfulWorld">
-      <UniqueIdentifier>{121A7E27-8383-4111-B00D-6506F1C2662F}</UniqueIdentifier>
+      <UniqueIdentifier>{626CBD82-9003-4359-A7C0-8E19970E5C10}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\WonderfulWorld\ChunkDefault.cpp">
+      <Filter>Source\WonderfulWorld</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\WonderfulWorld\ChunkDefault.h">
+      <Filter>Source\WonderfulWorld</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\WonderfulWorld\MyActor.cpp">
       <Filter>Source\WonderfulWorld</Filter>
     </ClCompile>
