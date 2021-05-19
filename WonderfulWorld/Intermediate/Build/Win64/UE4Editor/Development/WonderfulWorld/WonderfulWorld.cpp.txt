@@ -1,2 +1,0 @@
-D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Intermediate\Build\Win64\UE4Editor\Development\WonderfulWorld\Definitions.WonderfulWorld.h
-D:\Programm\UE4\Git\Tww\Tww\WonderfulWorld\Source\WonderfulWorld\WonderfulWorld.h
