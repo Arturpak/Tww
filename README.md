@@ -1,6 +1,4 @@
 # Tww
-Unreal Engine 4.26.1
+Unreal Engine 4.26
 
- Plugins {
-SunPosition
-}
+Build Game:
